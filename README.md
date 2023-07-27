@@ -1,5 +1,5 @@
 # Hi there, i'm Legitey ⚡ 
-- #### I'm from São Paulo - SP 🌙  
+- #### I'm from Brazil, São Paulo - SP 🌙  
 - #### Programming in JavaScript  👨🏽‍💻 
 - #### Chat-bot developer 💼 
 - #### Studying for Back-End developer 🔰 

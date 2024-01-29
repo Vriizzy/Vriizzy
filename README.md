@@ -1,4 +1,4 @@
-# Hi there, i'm Legitey ⚡ 
+# Hi there, i'm Victor ⚡ 
 - #### I'm from Brazil, São Paulo - SP 🌙  
 - #### Programming in JavaScript  👨🏽‍💻 
 - #### Chat-bot developer 💼 
